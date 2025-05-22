@@ -1200,7 +1200,7 @@ footer{
 }
 
 
-\\@media(max-width:530px){
+@media(max-width:530px){
     html{
         font-size: 80%;
     }
