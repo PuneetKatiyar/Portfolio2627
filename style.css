@@ -80,7 +80,7 @@ ul.navlist{
     display: flex;
     align-items: center;
     justify-content: end;
-    grid-gap: .8rem;
+    grid-gap: .10rem;
 }
 
 .btn{
