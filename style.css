@@ -80,7 +80,7 @@ ul.navlist{
     display: flex;
     align-items: center;
     justify-content: end;
-    grid-gap: .5rem;
+    grid-gap: .8rem;
 }
 
 .btn{
@@ -1105,7 +1105,7 @@ footer{
 @media(max-width:991px){
     header,section,footer{
         padding-left: 3%;
-        padding-right: 3%;
+        padding-right: 8%;
     }
     .home,.project-box{
         flex-direction: column-reverse;
