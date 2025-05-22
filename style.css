@@ -1105,7 +1105,7 @@ footer{
 @media(max-width:991px){
     header,section,footer{
         padding-left: 3%;
-        padding-right: 10%;
+        padding-right: 3%;
     }
     .home,.project-box{
         flex-direction: column-reverse;
@@ -1200,7 +1200,7 @@ footer{
 }
 
 
-@media(max-width:530px){
+\\@media(max-width:530px){
     html{
         font-size: 80%;
     }
