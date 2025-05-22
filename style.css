@@ -1105,7 +1105,7 @@ footer{
 @media(max-width:991px){
     header,section,footer{
         padding-left: 3%;
-        padding-right: 8%;
+        padding-right: 2%;
     }
     .home,.project-box{
         flex-direction: column-reverse;
